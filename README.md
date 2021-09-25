@@ -14,3 +14,5 @@ It also shows the use of some advanced CSS concepts :
 - The selector priority (hierarchical and combining selectors) ;
 - The law of specificity ;
 - Code refactoring in order to keep our code DRY.
+
+Want to check the responsiveness ? https://search.google.com/test/mobile-friendly 
