@@ -1,7 +1,7 @@
 # CSS-Bootstrap-5-traning
 CSS / Bootstrap 5 traning
 
---------- This exercice comes from a Bootcamp made by Doctor Angela Yu. Some personnalisations and updates have been made by myself -----------
+--------- This exercice comes from a bootcamp made by Doctor Angela Yu. Some personnalisations and updates have been made by myself -----------
 
 This exercice shows the use of some Bootstrap 5 components :
 - Grid ;
