@@ -1,5 +1,5 @@
-# CSS-Bootstrap-5-traning
-CSS / Bootstrap 5 traning
+# CSS-Bootstrap-5-exercice
+CSS / Bootstrap 5 exercice
 
 --------- This exercice comes from a bootcamp made by Doctor Angela Yu. Some personnalisations and updates have been made by myself -----------
 
